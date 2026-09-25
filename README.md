@@ -4,7 +4,7 @@
 
 Vyberte si Linuxovou distribuci a pomocí Vagrantu si připravte vlastní virtuální server. Jeho konfiguraci uložte do svého repozitáře v GitHub Classroom, abyste prostředí mohli znovu vytvořit i na jiném počítači.
 
-![Git, Vagrant a Linux – naše první virtuální laboratoř](./Images/git-vagrant.png)
+![Tabulka Linux, Git, Vagrant a servery](./Images/muj-linux-server.png)
 
 ## 1. Příprava repozitáře
 
@@ -139,13 +139,34 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 
 ## Moje řešení
 
-- **Distribuce a verze:** doplňte
-- **Použitý Vagrant box:** doplňte
-- **Adresář serveru:** doplňte
-- **Výsledek spuštění a přihlášení:** doplňte
-- **Případné problémy a jejich řešení:** doplňte
-- **Kontrolní kód a záznam ze serveru:** sem vložte celý Markdown blok vypsaný skriptem
-- **Bonus – AI obrázek a použitý prompt:** doplňte, pokud plníte bonus
+- **Distribuce a verze:** Debian GNU/Linux 13 (trixie)
+- **Použitý Vagrant box:** bento/debian-13
+- **Adresář serveru:** ./srv01/
+- **Výsledek spuštění a přihlášení:** Debian se spustil správně a následně jsem se přihlásil pomocí příkazu vagrant ssh
+- **Případné problémy a jejich řešení:** nejsou
+- **Kontrolní kód a záznam ze serveru:** \*\*Kontrolní kód:\*\* `SPOS-3I-3e492f25e2410f8c6722d90a9101d1af7284c6070e1c525288a17fb379aa2f7d`
+
+
+
+```text
+
+Úloha: git-vagrant / SPOŠ / 3. I / v1
+
+Distribuce: Debian GNU/Linux 13 (trixie)
+
+Hostname: debian13
+
+Kernel: 6.12.48+deb13-amd64
+
+Virtualizace: oracle
+
+Čas UTC: 2026-09-25T06:18:46Z
+
+Náhodné ID: 393cdca4-5bce-41c3-b8ac-a862bb9b27be
+
+```
+
+- **Bonus – AI obrázek a použitý prompt:** vytvoř mi obrázek který bude do školy na hodinu Operačních systémů a bude na téma "Linux, Git, Vagrant a virtuální servery"
 
 ## Nápověda a odkazy
 
