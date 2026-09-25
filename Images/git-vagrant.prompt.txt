@@ -1,0 +1,8 @@
+Generated with the built-in image_gen tool.
+
+Use case: stylized-concept
+Asset type: wide illustrated banner for a Czech secondary-school GitHub Classroom assignment about Git, Vagrant and a first Linux server.
+Primary request: A polished playful isometric illustration of a laptop with a terminal, a friendly Linux penguin, virtual server blocks and a Git branching graph, showing a small hands-on virtual Linux lab.
+Composition/framing: wide landscape banner, clear uncluttered composition readable on a GitHub README.
+Style/medium: contemporary educational digital illustration, crisp shapes, gentle depth and soft lighting.
+Constraints: no text, no letters, no watermark; no school logos. The scene should communicate practical learning of Linux virtualization and version control.
