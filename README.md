@@ -144,7 +144,8 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 - **Adresář serveru:** ./srv01/
 - **Výsledek spuštění a přihlášení:** Debian se spustil správně a následně jsem se přihlásil pomocí příkazu vagrant ssh
 - **Případné problémy a jejich řešení:** nejsou
-- **Kontrolní kód a záznam ze serveru:** \*\*Kontrolní kód:\*\* `SPOS-3I-3e492f25e2410f8c6722d90a9101d1af7284c6070e1c525288a17fb379aa2f7d`
+- **Kontrolní kód a záznam ze serveru:**
+`SPOS-3I-3e492f25e2410f8c6722d90a9101d1af7284c6070e1c525288a17fb379aa2f7d`
 
 
 
@@ -166,7 +167,10 @@ Náhodné ID: 393cdca4-5bce-41c3-b8ac-a862bb9b27be
 
 ```
 
-- **Bonus – AI obrázek a použitý prompt:** vytvoř mi obrázek který bude do školy na hodinu Operačních systémů a bude na téma "Linux, Git, Vagrant a virtuální servery"
+- **Bonus – AI obrázek a použitý prompt:** 
+![Tabulka Linux, Git, Vagrant a servery](./Images/muj-linux-server.png)
+
+vytvoř mi obrázek který bude do školy na hodinu Operačních systémů a bude na téma "Linux, Git, Vagrant a virtuální servery"
 
 ## Nápověda a odkazy
 

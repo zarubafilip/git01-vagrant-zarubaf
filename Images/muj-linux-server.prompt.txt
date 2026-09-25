@@ -1,0 +1,1 @@
+vytvoř mi obrázek který bude do školy na hodinu Operačních systémů a bude na téma "Linux, Git, Vagrant a virtuální servery"
